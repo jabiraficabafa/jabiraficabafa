@@ -4,7 +4,7 @@
 - 👀 Eu esou interessado em trabalhar com a tecnologia
 - 🌱 Estou aprendendo programação básica no java e scrath
 - 💞️ EStou colaborando para ajudar recentes programadores
-- 📫 Meu emmail é [email](david.konek.santos@escola.pr.gov.br)
+- 📫 Meu [email](david.konek.santos@escola.pr.gov.br)
 
 <!---
 jabiraficabafa/jabiraficabafa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
