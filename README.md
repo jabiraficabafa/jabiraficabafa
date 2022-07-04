@@ -1,6 +1,6 @@
 # sobre mim
 
-- 👋 Olá meu nome é @jabiraficabafa
+- 👋 Olá meu nome é *@jabiraficabafa*
 - 👀 Eu esou interessado em trabalhar com a tecnologia
 - 🌱 Estou aprendendo programação básica no java e scrath
 - 💞️ EStou colaborando para ajudar recentes programadores
